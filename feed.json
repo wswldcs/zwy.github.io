@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "牛马站",
+    "description": "",
+    "home_page_url": "https://zwy.github.io",
+    "feed_url": "https://zwy.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "牢大"
+    },
+    "items": [
+        {
+            "id": "https://zwy.github.io/ffffff/",
+            "url": "https://zwy.github.io/ffffff/",
+            "title": "ffffff",
+            "author": {
+                "name": "牢大"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-18T11:27:41+08:00",
+            "date_modified": "2024-07-18T11:27:41+08:00"
+        }
+    ]
+}
