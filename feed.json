@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "sh",
     "description": "",
-    "home_page_url": "https://zwy.github.io",
-    "feed_url": "https://zwy.github.io/feed.json",
+    "home_page_url": "https://wswldcs.github.io",
+    "feed_url": "https://wswldcs.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "积分"
+        "name": "wswldcs"
     },
     "items": [
         {
-            "id": "https://zwy.github.io/1gf65hd1r6.html",
-            "url": "https://zwy.github.io/1gf65hd1r6.html",
+            "id": "https://wswldcs.github.io/1gf65hd1r6.html",
+            "url": "https://wswldcs.github.io/1gf65hd1r6.html",
             "title": "1gf65hd1r6",
             "summary": "fdsj9g894532bdsfvu",
             "content_html": "<p>fdsj9g894532bdsfvu</p>",
             "author": {
-                "name": "积分"
+                "name": "wswldcs"
             },
             "tags": [
             ],
@@ -24,13 +24,13 @@
             "date_modified": "2024-07-22T15:06:20+08:00"
         },
         {
-            "id": "https://zwy.github.io/gfhdh.html",
-            "url": "https://zwy.github.io/gfhdh.html",
+            "id": "https://wswldcs.github.io/gfhdh.html",
+            "url": "https://wswldcs.github.io/gfhdh.html",
             "title": "gfhdh",
             "summary": "ewqewtrytryhth",
             "content_html": "\n  <p>\n    ewqewtrytryhth\n  </p>",
             "author": {
-                "name": "积分"
+                "name": "wswldcs"
             },
             "tags": [
             ],
@@ -38,11 +38,11 @@
             "date_modified": "2024-07-22T15:06:10+08:00"
         },
         {
-            "id": "https://zwy.github.io/fdasg.html",
-            "url": "https://zwy.github.io/fdasg.html",
+            "id": "https://wswldcs.github.io/fdasg.html",
+            "url": "https://wswldcs.github.io/fdasg.html",
             "title": "fdasg",
             "author": {
-                "name": "积分"
+                "name": "wswldcs"
             },
             "tags": [
             ],
